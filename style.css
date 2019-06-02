@@ -41,7 +41,7 @@ div.main {
     padding: 24px;
     width: 984px;
     margin: 24px auto;
-    height: 884px;
+    height: 1084px;
 }
 div.doublePanelGrid {
     width: 448px;
@@ -248,9 +248,19 @@ h3:focus {
     float: right;
     width: 400px;
 }
+.shs {
+    float: left;
+    width: 400px;
+}
 .n2nd {
     float: left;
     width: 400px;
+}
+.name {
+    color: #4F69FF;
+}
+.links {
+    color: #ffe700;
 }
 .footer {
     background-color: #00151f;
